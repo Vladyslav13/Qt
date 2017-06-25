@@ -10,3 +10,4 @@ Folder "libnb" сontains the "Notebook" class, and all classes that he needs for
 Requirements: project works with C++11, Qt5.6, boost 1.62 or newer.
 
 Build system is cmake.
+Проверка связи.
