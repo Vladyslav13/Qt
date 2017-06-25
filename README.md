@@ -1,7 +1,7 @@
 # Qt
 Qt-notebook.
 
-Folder "modules" content NoteBookGui and libnb folders.
+Folder "modules" contents the "NoteBookGui" and "libnb" folders.
 
 Folder "NoteBookGui" contents the interface of notebook. Written in Qt5.
 
