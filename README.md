@@ -1,8 +1,12 @@
 # Qt
 Qt-notebook.
 
-Modules contents NoteBookGui and libnb folders.
+Folder "modules" content NoteBookGui and libnb folders.
 
-NoteBookGui contents interface for notebook. Written in Qt5.
+Folder "NoteBookGui" contents the interface of notebook. Written in Qt5.
 
-Libnb сontains a class person who represents a record in a notebook. Also, serialization is implemented there.
+Folder "libnb" сontains the "Notebook" class, and all classes that he needs for storing a records in a notebook. Also, serialization is implemented there.
+
+Requirements: project works with C++11, Qt5.6, boost 1.62 or newer.
+
+Build system is cmake.
